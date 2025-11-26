@@ -10,7 +10,7 @@ It’s fully responsive, interactive, and visually appealing across desktop, tab
 
 ## 🚀 Live Demo
 
-[View my live portfolio here!](https://Andrew-Fernando-15.github.io/portfolio1/)
+[View my live portfolio here!](https://Andrew-Fernando-15.github.io/portfolio1/index.html)
 
 ---
 
