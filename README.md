@@ -1,5 +1,5 @@
 # Andrew Portfolio Showcase 🖥️
-![Portfolio Screenshot](website_portfolio.png)
+![Portfolio Screenshot](images/website_portfolio.png)
 
 
 Welcome to **Andrew's Portfolio Showcase**!  
