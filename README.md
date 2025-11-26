@@ -1,5 +1,5 @@
 # Andrew Portfolio Showcase 🖥️
-![Portfolio Screenshot](portfolio website.png)
+![Portfolio Screenshot](portfolio_website.png)
 
 Welcome to **Andrew's Portfolio Showcase**!  
 A modern portfolio website to highlight my coding projects, skills, and engineering journey using **HTML, CSS, and JavaScript**.  
