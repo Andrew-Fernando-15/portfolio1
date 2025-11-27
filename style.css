@@ -211,12 +211,10 @@ hr {
 }
 
 .about img{
-    position: relative;
-    bottom: 85px;
-    width: 400px;
-    height: 400px;
-    border-radius: 15px;
-    border: 1px solid black;
+  width: 400px;
+  height: 400px;
+  border-radius: 15px;
+  border: 1px solid black;
 }
 
 .about h2{
@@ -878,3 +876,4 @@ body {
     overflow-x: hidden;
   }
 }
+
