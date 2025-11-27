@@ -145,3 +145,5 @@ document.addEventListener("DOMContentLoaded", () => {
     mainPage.classList.add("visible");
   }, 4000);
 });
+
+//Made By Andrew Amirtharaj Fernando
